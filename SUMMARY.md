@@ -2,7 +2,7 @@
 
 ## 项目介绍
 
-* [项目概述——BNUZH IOJ](README.md)
+* [项目概述——BNUZH OJ](README.md)
 * [项目背景](xiang-mu-jie-shao/xiang-mu-bei-jing.md)
 * [项目目标](xiang-mu-jie-shao/xiang-mu-mu-biao.md)
 * [进度安排](xiang-mu-jie-shao/jin-du-an-pai.md)
