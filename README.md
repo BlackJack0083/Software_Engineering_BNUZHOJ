@@ -1,5 +1,6 @@
 ---
 description: 基于微服务架构与大模型技术的代码在线评测系统
+icon: blanket
 ---
 
 # 项目概述——BNUZH OJ
