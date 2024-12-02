@@ -1,6 +1,6 @@
 ---
-description: 基于软件工程快速原型模型的项目进度安排
 icon: table
+description: 基于软件工程快速原型模型的项目进度安排
 ---
 
 # 进度安排
@@ -120,5 +120,3 @@ icon: table
 ## 项目时间轴
 
 <table><thead><tr><th width="240">阶段</th><th>时间范围</th><th>主要目标</th></tr></thead><tbody><tr><td>需求分析与计划制定</td><td>10月4日 - 10月14日</td><td>确定需求和计划，制定开发时间表</td></tr><tr><td>快速原型开发</td><td>10月15日 - 11月30日</td><td>构建系统初步原型，实现核心功能</td></tr><tr><td>原型评估与改进</td><td>11月11日 - 11月20日</td><td>收集反馈并优化功能</td></tr><tr><td>最终实现与集成</td><td>11月21日 - 12月5日</td><td>完成核心功能集成，优化性能和交互</td></tr><tr><td>系统测试与交付</td><td>12月6日 - 12月17日</td><td>进行全面测试并交付 Demo 系统</td></tr></tbody></table>
-
-<figure><img src="../.gitbook/assets/gantt.png" alt=""><figcaption><p>项目开发甘特图</p></figcaption></figure>
